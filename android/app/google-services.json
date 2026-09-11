@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075892564973",
+    "project_id": "ecopunto-ucn",
+    "storage_bucket": "ecopunto-ucn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075892564973:android:044aa6b799b9b9466cede4",
+        "android_client_info": {
+          "package_name": "com.example.ecopunto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7c0O_u85dHFY_h2lwcOcNUvaaL6sJDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
